@@ -1,4 +1,4 @@
-- Hello, Im @jemad and I'm a post-doctoral associate at Cornell University studying
+- Hello, I'm @jemad and I'm a post-doctoral associate at Cornell University studying
 - how early life environments influence social bheavior in prarie voles. 
 -
 - I'm interested in promoting responsible consideration of data in models to guide decisions
